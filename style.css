@@ -77,3 +77,23 @@ article h1{
     background-color: white;
     text-align: left;
 }
+
+
+a{
+    background-color:#89b7fa;
+    text-align:center;
+    padding:10px 50px 20px 50px;    
+    font-size:30px;
+    text-decoration: none;
+    color:black;
+    border-radius: 20px;
+    margin-bottom: 50px;   
+    margin-top: 60px; 
+}
+
+footer{
+    margin: 40px 0px 50px 0px;
+    padding-bottom: 50px;
+    border-top:3px #4080de dashed;
+    border-bottom:3px #4080de dashed;
+}
